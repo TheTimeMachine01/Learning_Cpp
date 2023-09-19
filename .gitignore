@@ -1,0 +1,5 @@
+# Compiled Output Files
+*.exe
+
+# Instruction file 
+instruction.txt
